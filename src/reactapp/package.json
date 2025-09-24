@@ -9,7 +9,7 @@
     "@fluentui/react-components": "^9.68.3",
     "@icongo/vsc": "^1.1.2",
     "@microsoft/mgt": "^2.9.0",
-    "@microsoft/mgt-element": "^2.9.0",
+    "@microsoft/mgt-element": "^2.11.2",
     "@microsoft/mgt-msal2-provider": "^2.9.0",
     "@microsoft/mgt-react": "^2.9.0",
     "@testing-library/jest-dom": "^5.16.5",
