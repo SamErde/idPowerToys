@@ -5,7 +5,7 @@
   "dependencies": {
     "@azure/msal-browser": "^2.33.0",
     "@azure/msal-common": "^10.0.0",
-    "@azure/msal-react": "^1.5.3",
+    "@azure/msal-react": "^1.5.13",
     "@fluentui/react-components": "^9.68.3",
     "@icongo/vsc": "^1.1.2",
     "@microsoft/mgt": "^2.11.2",
