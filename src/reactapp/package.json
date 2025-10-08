@@ -7,7 +7,7 @@
     "@azure/msal-common": "^10.0.0",
     "@azure/msal-react": "^1.5.13",
     "@fluentui/react-components": "^9.68.3",
-    "@icongo/vsc": "^1.1.2",
+    "@icongo/vsc": "^1.2.0",
     "@microsoft/mgt": "^2.11.2",
     "@microsoft/mgt-element": "^2.11.2",
     "@microsoft/mgt-msal2-provider": "^2.11.2",
