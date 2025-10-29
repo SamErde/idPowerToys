@@ -6,7 +6,7 @@
     "@azure/msal-browser": "^2.39.0",
     "@azure/msal-common": "^10.0.0",
     "@azure/msal-react": "^1.5.13",
-    "@fluentui/react-components": "^9.68.3",
+    "@fluentui/react-components": "^9.72.1",
     "@icongo/vsc": "^1.2.0",
     "@microsoft/mgt": "^2.11.2",
     "@microsoft/mgt-element": "^2.11.2",
